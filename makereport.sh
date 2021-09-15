@@ -7,7 +7,7 @@ cd tmp
 cp ../references.bib .
 cp ../.assets/bibliography.py .
 cp ../.assets/header.tex .
-
+cp -r ../figures . 
 pandoc references.bib -t csljson -o references.json
 python3 bibliography.py
 
