@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg15724"
+   inkscape:version="1.0.1 (1.0.1+r74)"
+   sodipodi:docname="ch4_resuts_chains.svg">
+  <defs
+     id="defs15718" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="277.61408"
+     inkscape:cy="289.18791"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1514"
+     inkscape:window-height="1199"
+     inkscape:window-x="1256"
+     inkscape:window-y="61"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata15721">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 45.231135,16.76665 45.387871,98.265918 169.6678,97.660152"
+       id="path16287" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;stroke-width:0.264583"
+       x="15.033274"
+       y="59.769398"
+       id="text16291"><tspan
+         sodipodi:role="line"
+         id="tspan16289"
+         x="15.033274"
+         y="59.769398"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583">MTE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;stroke-width:0.264583"
+       x="75.131508"
+       y="116.51256"
+       id="text16295"><tspan
+         sodipodi:role="line"
+         id="tspan16293"
+         x="75.131508"
+         y="116.51256"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583">chain timestep</tspan></text>
+    <path
+       style="fill:none;stroke:#2a24b4;stroke-width:0.865;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.782866"
+       d="m 45.387871,98.265918 7.496959,-8.153593 13.819386,-0.06397 3.930406,2.951279 5.444022,-6.477849 10.231564,-0.338503 4.275532,5.494034 0.744601,-5.004655 3.205138,4.802124 3.690575,-25.881679 11.359216,-0.09728 2.17461,6.097958 2.78185,-9.918276 3.51852,10.19366 11.83035,-0.597048 5.24784,-45.288186 5.9886,11.840802 4.24444,-12.054451 5.84613,12.002381 3.97493,-11.202873"
+       id="path16299" />
+  </g>
+</svg>

@@ -7,17 +7,21 @@ cd tmp
 cp ../references.bib .
 cp ../.assets/bibliography.py .
 cp ../.assets/header.tex .
-cp -r ../figures . 
+
+
+cp -r ../figures .
 pandoc references.bib -t csljson -o references.json
 python3 bibliography.py
 
 
 pandoc ../report.md \
-    -s -o report.tex \
+    -s \
     -F \
     ~/apps/pandoc-crossref --citeproc \
         --bibliography=references.json \
-        -H header.tex
+        -H header.tex \
+        -o report.tex
+
 
 pdflatex report.tex
 
